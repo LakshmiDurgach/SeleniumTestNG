@@ -45,12 +45,12 @@ public class OrangeHtmTest {
 	@Test(priority=4)
 	void testLogout()
 	{
-		//close application
+		//close application 
 		driver.quit();
 		
 	}
 	
 	
 
-}
+}//this applivcation
 
