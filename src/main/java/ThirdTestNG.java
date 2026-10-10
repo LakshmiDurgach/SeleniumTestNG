@@ -47,6 +47,16 @@ public class ThirdTestNG {
 		
 		
 	}
+	//this is sample code for git push process
+	public void VerifyLoginSample()
+	{
+		WebElement element=driver.findElement(By.id("welcome"));
+		System.out.println(element.isDisplayed());
+		System.out.println(element.getText());
+		driver.quit();
+		
+		
+	}
 	
 	
 
