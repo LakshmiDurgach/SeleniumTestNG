@@ -12,6 +12,8 @@ public class AssertionsDemo {
 	String act_title="Opencart1";
 	
 	Assert.assertEquals(exp_title, act_title);
+	Assert.assertEquals(exp_title, act_title);
+	
 	}
 	
 
